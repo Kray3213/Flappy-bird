@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Flappy Bird(parody)**
 
+- - 🌱 I’m currently learning **Web Junior**
+
 - 🤝 I’m looking for help with **In understanding, learning, and working in the front-end industry**
 
 - 📫 How to reach me **usdjuxhdiid@gmail.com**
