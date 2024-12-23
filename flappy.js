@@ -70,7 +70,7 @@ function draw() {
 			(yPos <= pipe[i].y +pipeUp.height ||
 			yPos + bird.height >= pipe[i].y + pipeUp.height +gap)) {
 			hit_audio.play()
-			location.reload()
+			reload()
 		 
 }
 			if (pipe[i].x == 0) {
