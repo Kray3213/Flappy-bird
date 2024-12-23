@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kray</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+gonna+crash+out)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+gonna+crash+out" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **Flappy Bird(parody)**
 
