@@ -66,7 +66,7 @@ function draw() {
 		}
 
 		if (xPos + bird.width >= pipe[i].x &&
-			xPos <= pipe[i].x + pipeUp.width &&
+			xPos <= pipe[i].x + pipeUp.width +10 &&
 			(yPos <= pipe[i].y +pipeUp.height ||
 			yPos + bird.height >= pipe[i].y + pipeUp.height +gap)) {
 			hit_audio.play()
